@@ -9,11 +9,6 @@ more attention to the original creator rather than accounts that repost other
 people's artwork without credit or permission. This will
 hopefully combat both art reposting and plagiarism. 
 
-## Usage
-
-When you find uncredited art posted on Twitter, reply to it and mention @this_source
-within your tweet. Image Search Twitter Bot will return results.
-
 ## API Sources and Acknowledgements
 - Tweepy API: http://docs.tweepy.org/en/latest/index.html
 - SerpApi: https://serpapi.com/
